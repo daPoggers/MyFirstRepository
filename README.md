@@ -21,3 +21,6 @@ help pls
 
 # merge pull request??????????
 mucho help pls
+
+# vs cool
+vs code cool lol
